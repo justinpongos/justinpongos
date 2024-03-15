@@ -1,9 +1,9 @@
 - 👋 Helloo!!, I’m @justinpongos
 - 👀 I’m interested in Software Development (FullStack)
-- 🌱 I’m currently learning HTML, CSS, &, Javascript
+- 🎨 I’m currently experimenting with HTML, CSS, &, Javascript
 - 📫 How to reach me justinpongos@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to create
+- 💟 Pronouns: He/Him
+- 💡 Fun fact: I love to create
 
 <!---
 justinpongos/justinpongos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
