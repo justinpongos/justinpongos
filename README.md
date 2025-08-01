@@ -1,6 +1,6 @@
 - 👋 Helloo!, I’m @justinpongos
-- 💻 Languages | Python | Java | JavaScript | HTML | CSS | C | React
-- 👀 I’m interested in Software Development (FullStack)
+- 💻 Languages | Python | Java | JavaScript | HTML | CSS | C | C++ | C+ | C# | Haskell | Prolog | React
+- 👀 I’m interested in Software Development (Front-End Development)
 - 🎨 I’m currently experimenting with Frameworks
 - 📫 How to reach me justinpongos@gmail.com
 - 💟 Pronouns: He/Him
